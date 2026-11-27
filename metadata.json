@@ -1,0 +1,6 @@
+{
+  "name": "SpinWheel",
+  "description": "A customizable random name picker and decision wheel with realistic physics, weighted entries, sound effects, and saved wheels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
